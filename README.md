@@ -1,7 +1,7 @@
 # Hi, I'm César Oliveira.
 
 <p align="center">
-  <img align="right" width="50%"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" width="45%"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </p> 
 
 ### :book: About Me
